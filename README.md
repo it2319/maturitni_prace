@@ -6,5 +6,6 @@ Webová aplikace:
 
 Funkce:
 - Při načtení QR kódu otevřít aplikaci
-- Zapsat kdo načetl QR kód, na jakém stroji, jakou zakázku dělá a jakou dobu u stroje stráví
-- Případně generovat nový QR kód po každém načtení
+- Zapsat kdo načetl QR kód, na jakém stroji a jakou zakázku dělá
+- Metoda pro sledování kolik času stráví na jedné zakázce či stroji
+- Generovat nový QR kód po každém načtení
