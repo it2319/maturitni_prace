@@ -16,4 +16,4 @@ Funkce:
 - Případně ukončil předchozí práci a spočítal její délku,
 - Vygeneroval nový QR token a zneplatnil původní kód.
 
-Prostředky: FastAPI,
+
