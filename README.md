@@ -1,6 +1,6 @@
 # Závěrečná_práce - 2026/27
 
-Maturitni práce IT4
+Závěrečná práce IT4
 
 Účel aplikace je evidence 
 a měření času práce jednotlivých pracovníků
